@@ -1,0 +1,8 @@
+if (a%2 == 0)
+{ no. is even;}
+else
+{ no. is odd}
+
+By masking (using AND)
+
+a&1 == 0
