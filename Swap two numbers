@@ -1,0 +1,13 @@
+for:-
+
+int a = 5
+int b = 7
+int temp=a;
+    a=b;
+    b=temp;
+    
+using EXOR
+
+a= a^b
+b= a^b
+a= a^b
